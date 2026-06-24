@@ -229,8 +229,3 @@ This was built as a learning project to practice secure PHP fundamentals:
 
 
 \---
-
-
-
-ub.com/GeorgiosMavropoulos) · \[LinkedIn](https://www.linkedin.com/in/george-mavropoulos-509a6a326/)
-
