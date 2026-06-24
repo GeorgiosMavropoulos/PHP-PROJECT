@@ -1,0 +1,10 @@
+<?php
+ //database connection variables for your UOS webspace database
+ $servername = "localhost";
+ $username = "root";
+ $password = "root";
+ $database = "cycling"; 
+
+
+
+ ?>
