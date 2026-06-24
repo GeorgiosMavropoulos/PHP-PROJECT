@@ -232,11 +232,5 @@ This was built as a learning project to practice secure PHP fundamentals:
 
 
 
-\## 👤 Author
-
-
-
-\*\*Georgios Mavropoulos\*\*
-
-\[GitHub](https://github.com/GeorgiosMavropoulos) · \[LinkedIn](https://www.linkedin.com/in/george-mavropoulos-509a6a326/)
+ub.com/GeorgiosMavropoulos) · \[LinkedIn](https://www.linkedin.com/in/george-mavropoulos-509a6a326/)
 
